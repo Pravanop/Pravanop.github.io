@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Carbon and metallic-based nanomaterials for strain sensors"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'A comprehensive review on new developments in carbon nanomaterials as well as metallic nanoparticles based strain sensors. Paper was written under Dr Devadas Bhat P, Department of Metallurgy and Materials Engineering, NITK'
+date: 2021-1-1
+venue: 'Current Nanomaterials, Bentham Science'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Omprakash, Pravan. (2021). &quot;Carbon and metallic-based nanomaterials for strain sensors.&quot; <i>Current Nanomaterials, Bentham Science</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+A comprehensive review on new developments in carbon nanomaterials as well as metallic nanoparticles based strain sensors. Paper was written under Dr Devadas Bhat P, Department of Metallurgy and Materials Engineering, NITK
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Omprakash, Pravan. (2021). "Carbon and metallic-based nanomaterials for strain sensors" <i>Current Nanomaterials, Bentham Science</i>. 1(2).
