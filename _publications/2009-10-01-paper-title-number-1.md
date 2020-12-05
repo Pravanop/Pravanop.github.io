@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "AuthNet: A Deep Learning based Authentication Mechanism using Temporal
+
+Facial Feature Movements"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Built a robust Deep learning model that consists of an Long Short Term Memory(LSTM)
