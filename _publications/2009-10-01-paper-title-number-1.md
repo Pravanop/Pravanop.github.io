@@ -13,4 +13,3 @@ citation: 'Raghavendra, Mohit. (2021). &quot; AuthNet: A Deep Learning based Aut
 Facial Feature Movements.&quot; <i>35th Conference on Association for Advancement of Artificial Intelligence, Student Abstract and Poster
 Program</i>. 1(1).'
 ---
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
