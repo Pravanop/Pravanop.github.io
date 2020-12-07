@@ -8,7 +8,7 @@ uttering a password built using the publicly available MIRACL-VC1 dataset with a
 date: 2021-2-2
 venue: '35th Conference on Association for Advancement of Artificial Intelligence, Student Abstract and Poster
 Program'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 citation: 'Raghavendra, Mohit. (2021). &quot; AuthNet: A Deep Learning based Authentication Mechanism using Temporal
 Facial Feature Movements.&quot; <i>35th Conference on Association for Advancement of Artificial Intelligence, Student Abstract and Poster
 Program</i>. 1(1).'
