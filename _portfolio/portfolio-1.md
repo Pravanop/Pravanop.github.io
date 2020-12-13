@@ -1,6 +1,6 @@
 ---
 title: "AuthNet: A Deep Learning based Authentication Mechanism using Temporal Facial Feature Movements"
-collection: publications
+collection: portfolio
 permalink: /porfolio/portfolio-1
 excerpt: 'Built a robust Deep learning model that consists of an Long Short Term Memory(LSTM)
 network and a pre-trained VGGNet model to capture temporal facial feature movements while a user is
