@@ -1,7 +1,7 @@
 ---
-title: 'Praject 1'
+title: 'Project 1'
 date: 2020-08-13
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/project1/
 tags:
   - cool posts
   - category1
