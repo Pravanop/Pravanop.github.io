@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _posts
   - scope:
       path: ""
-      type: publications
+      type: posts
     values:
       layout: single
       author_profile: true
