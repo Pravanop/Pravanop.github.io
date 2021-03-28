@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-Mohit Raghavendra\*,<b>Pravan Omprakash\*</b>, Mukesh B R,  AuthNet: A Deep Learning based Authentication Mechanism using Temporal Facial Feature Movements (Student Abstract), Proceedings in the 35th Conference on Association for Advancement of Artificial Intelligence, Student Abstract and Poster Program, **AAAI-21**. Selected as finalist for paper presentation.
+- Mohit Raghavendra\*,<b>Pravan Omprakash\*</b>, Mukesh B R,  AuthNet: A Deep Learning based Authentication Mechanism using Temporal Facial Feature Movements (Student Abstract), Proceedings in the 35th Conference on Association for Advancement of Artificial Intelligence, Student Abstract and Poster Program, **AAAI-21**. Selected as finalist for oral presentation.
 
-<b>Pravan Omprakash</b>, Dr Uday Bhat K, Dr Devadas Bhat P,  Carbon and metallic-based nanomaterials for strain sensors- a review, **Current Nanomaterials, Bentham Science**. DoI : https://doi.org/10.2174/2405461506666210112151221.  
+- <b>Pravan Omprakash</b>, Dr Uday Bhat K, Dr Devadas Bhat P,  Carbon and metallic-based nanomaterials for strain sensors- a review, **Current Nanomaterials, Bentham Science**. DoI : https://doi.org/10.2174/2405461506666210112151221.  
+
+- <b> Pravan Omprakash </b>, Viswesh P, Dr Devadas Bhat P, A Review of 2D Perovskites and Carbon-Based Nanomaterials for Applications in Solar Cells and Photodetectors, **ECS Journal of Solid State Science and Technology, IOPScience**, DOI : https://doi.org/10.1149/2162-8777/abefaf. 
