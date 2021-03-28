@@ -1,7 +1,7 @@
 ---
 title: 'AuthNet'
 date: 2021-03-28
-permalink: /posts/post1/
+permalink: /posts/2021/03/post1/
 tags:
   - cool posts
   - category1
