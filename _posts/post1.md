@@ -8,13 +8,12 @@ tags:
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Authentication systems have been around for quite some time now. Simple passwords, patterns, codes, fingerprints, iris, audio recognition, and finally face recognition are some of the prevalent biometric systems available today for authentication. Facial recognition has even become very popular in smartphones in the past few years, and it has been used in many other security systems previously.
 
-Headings are cool
-======
+## Why do we need to do better?
+---
+Facial recognition has issues. Sophisticated systems have depth analysis in their algorithms, but the common face recognition systems can be fooled with a picture or by wearing glasses even. Fingerprints, passwords, patterns have their kryptonites. Fingerprints can be extracted from a sleeping person, passwords and patterns can be determined.
 
-You can have many headings
-======
 
 Aren't headings cool?
 ------
