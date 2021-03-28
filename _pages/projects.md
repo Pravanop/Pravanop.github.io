@@ -36,6 +36,11 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 # Machine Learning/ Artificial Intelligence
 -----
+### Extensions on Temporal Graph Networks
+<i>January 2020 - Present </i><br>
+* Experimenting with add-ons to the TGN framework.
+* Applying TGN to different datasets in various new applications, and assessing its capabilities.
+
 ### RainCheck
 <i>August 2019 - Present </i> <br>
 * 6th best idea in India and 33rd in the world for the Redbull Basement Challenge 2020.
@@ -65,13 +70,19 @@ h2, h3, h4, h5, h6 {margin: 0;}
 # Nanotechnology and Nanomaterials
 -----
 ### A review of 2D perovskites and carbon-based nanomaterials for applications in solar cells and photodetectors
-<i> October 2020 - January 2020  </i><br>
-* Under review in Journal of Solid State materials. 
+<i> October 2020 - January 2021  </i><br>
+* Accepted paper in ECS Journal of Solid State materials. 
 * A complete review on inorganic and organic nanomaterials for photovoltaics.
 
 ### Carbon and metallic-based nanomaterials for strain sensors- a review
 <i> July 2020 - October 2020  </i><br>
-* Accepted Paper in Current Nanomaterials, Bentham Science  
+* Accepted Paper in Current Nanomaterials, Bentham Science.  
 * A comprehensive review on new developments in carbon nanomaterials as well as metallic nanoparticles based strain sensors.
+
+### Energy Storage through Graphite Intercalation Compounds - a review
+<i> Januray 2021 - October 2021 </i><br>
+* Paper under review in ECS Journal of The Electromical Society.
+* A review on the recent advances in graphite intercalation compounds in alkali ion batteries. 
+
 
 
