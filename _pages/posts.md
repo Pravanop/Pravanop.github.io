@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Technica"
-permalink: /posts/
+permalink: posts/
 author_profile: true
 ---
 
