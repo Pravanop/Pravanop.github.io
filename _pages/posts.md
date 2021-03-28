@@ -14,4 +14,4 @@ author_profile: true
 ## Blog Post 1 - AuthNet
 
 My first ever project in college. We were fortunate that a small idea became a full fledged project and then selected as a finalist paper in AAAI Student Abstract and Poster Program. <br>
-[Click here to read more about AuthNet...](/posts/post1/)
+[Click here to read more about AuthNet...](Pravanop/pravanop.github.io/_posts/post1.md)
