@@ -45,7 +45,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <i>August 2019 - Present </i> <br>
 * 6th best idea in India and 33rd in the world for the Redbull Basement Challenge 2020.
 * Built an LSTM model trained on weather data so as to predict rainfall using only data collected from sensors for local premises. Attained an accuracy of 85 \% in predicting rainfall on Australian weather dataset. 
-* Project under Prof.  Ayon Chakroborty, department of CSE, IIT-Madras. 
 * Idea Presentation : <https://www.youtube.com/watch?v=I0BYH1Sm0K4> 
 * Code : <https://github.com/Pravanop/WRAPS>
 
