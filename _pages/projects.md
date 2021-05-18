@@ -15,17 +15,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 # Work Experience
 ***
-## Computational Materials Science
-***
-### IIT Bhubhaneshwar, Research Intern 
-Present
-Working on deep learning methods for laser pumps.
-### Washington University of St. Louis, Research Intern 
-Present
-Working on real time segmentation on STEM images.
-### IISc, Research Intern
-Present
-Working on graph based learning for prediction in cryoelectron microscopy images.
+
 ## Machine Learning
 ***
 ### Neural and Data Science Lab, Summer Intern 
